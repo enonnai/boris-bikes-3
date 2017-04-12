@@ -4,9 +4,12 @@ This repo contains a network of docking stations and bikes that anyone can use. 
 
 ## Getting started
 
-`git clone` https://github.com/enonnai/boris-bikes-3
+`git clone https://github.com/enonnai/boris-bikes-3`
+
 Ruby installation page: https://www.ruby-lang.org/en/documentation/installation/
+
 `gem install rspec`
+
 `bundle install`
 
 ## Usage
@@ -17,4 +20,5 @@ Ruby installation page: https://www.ruby-lang.org/en/documentation/installation/
 ## Running tests
 
 Run unit tests from the project folder URL via `rspec`
+
 Run feature tests by running irb within the project folder `require spec-file-name`
