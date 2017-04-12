@@ -11,8 +11,4 @@ attr_reader :bike
     @bike = bike
   end
 
-  def bike
-    @bike
-  end
-
 end
